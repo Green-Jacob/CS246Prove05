@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prove05</string>
+    <string name="in_verse">Verse</string>
+    <string name="in_book">Book</string>
+    <string name="in_chapter">Chapter</string>
+    <string name="main_activity_head">Enter Scripture Reference</string>
+    <string name="submit_button">Submit</string>
+</resources>
